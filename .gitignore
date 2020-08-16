@@ -1,3 +1,8 @@
-mysite/__pycache__/*
 mysite/db.sqlite3
 *.sqlite3
+
+mysite/polls/migrations/__pycache__/
+
+mysite/mysite/__pycache__/
+
+mysite/polls/__pycache__/
